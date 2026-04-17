@@ -48,7 +48,3 @@ Student ID: 20479905
 
 ---
 
-## 📚 Key References
-* M. Yim et al., "Modular Self-Reconfigurable Robot Systems," 2007.
-* Arduino UNO R3 & Nano 33 IoT Datasheets.
-* Texas Instruments, "DRV8833 Dual H-Bridge Motor Driver," 2015.
